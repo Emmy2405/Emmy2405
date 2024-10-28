@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eman!
-- 👀 I’m interested in technology :)
-- 🌱 I’m currently studying Computer Science in TU Dublin
+- 🌱 I’m currently a 2nd year studying Computer Science in TU Dublin
 
 
 <!---
