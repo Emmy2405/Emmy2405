@@ -7,9 +7,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmy2405&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Emmy2405&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmy2405&theme=dracula)
 
 
 
