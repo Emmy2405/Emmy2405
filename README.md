@@ -33,5 +33,6 @@ Connect with me here! I'm open to new job opportunities and projects:
 ## 🌍 Languages  
 
 - **English** (Fluent)  
-- **Arabic** (Native)  
+- **Arabic** (Native)
+-  **French** (Limited Working Proficiency)  
 
