@@ -1,6 +1,6 @@
 # Hello, I'm Eman 👋  
 
-#### Computer Science Student at TU Dublin 
+#### I am a 2nd Year Computer Science Student at TU Dublin 
 
  ## 🌐 Contact Me!  
 
