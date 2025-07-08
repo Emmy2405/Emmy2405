@@ -34,5 +34,4 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 - **English** (Fluent)  
 - **Arabic** (Native)
--  **French** (Limited Working Proficiency)  
 
