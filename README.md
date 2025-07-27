@@ -10,7 +10,7 @@ Connect with me here! I'm open to new job opportunities and projects:
 
 
 ## 📊 GitHub Stats  
-![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmy2405&show_icons=true&theme=radical) 
+![Eman's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Emmy2405&show_icons=true&theme=radical]) 
 
 ## 🌐 Top Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmy2405&layout=compact&theme=radical)
