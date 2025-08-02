@@ -5,7 +5,8 @@
  ## 🌐 Contact Me!  
 
 Connect with me here! I'm open to new job opportunities and projects:  
--  **Email**: [abdelattieman@gmail.com](mailto:abdelattieman@gmail.com)  
+-  **Email**: [abdelattieman@gmail.com](mailto:abdelattieman@gmail.com)
+-  **College Email**: [c23310756@mytudublin.ie](mailto:c23310756@mytudublin.ie)   
 -  **LinkedIn**: [Eman Abdelatti](https://www.linkedin.com/in/eman-abdelatti-70b226302/) 
 
 
